@@ -1,0 +1,2 @@
+# KafkaTimeStatistics
+统计kafka最早与最新消息的间隔
